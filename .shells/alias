@@ -49,3 +49,7 @@ alias scope='cscope -CR -p10'
 
 # Quickly load bashrc
 alias gogo='source ~/.bashrc'
+
+# Useful for Search History
+alias h='history'
+alias hg='history | grep'
